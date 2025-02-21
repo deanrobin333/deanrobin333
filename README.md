@@ -51,9 +51,9 @@
 ---
 <br></br>
 <!-- <h2 align="center">🔨 Tech Stack & Tools 🔨</h2> -->
-<p align="center">
+
 <img src="https://readme-typing-svg.demolab.com/?lines=🔨+Tech+Stack+&+Tools+🔨;&size=33" alt="Tech Stack and Tools">
-</p>
+
 
 | 📜 Languages & Frameworks | ☁️ DevOps & Cloud | ⚙️ Tools & Productivity |
 |---------------------------|------------------|-------------------------|
