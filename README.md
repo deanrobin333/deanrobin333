@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <em>
-    "Life is like a camera. Focus on what's important. Capture the good times. Develop from the negatives. And if things don't work out, take another shot. Let's get snapping!"
+    "Life is like a camera. Focus on what's important. Capture the good times. Develop from the negatives. And if things don't work out, take another shot!" Let's get snapping!
   </em>
 </p>
 
