@@ -84,7 +84,7 @@
   <!-- >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deanrobin333&theme=dark" alt="GitHub Streak">
   -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deanrobin333&theme=dark&background=1abc9c&border=16a085&stroke=2ecc71&ring=3498db&fire=1abc9c&currStreakLabel=2ecc71" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deanrobin333&background=1abc9c&border=16a085&stroke=2ecc71&ring=3498db&fire=1abc9c&currStreakLabel=2ecc71" alt="GitHub Streak">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanrobin333&layout=compact&langs_count=7&theme=dark"/>
 </div>
