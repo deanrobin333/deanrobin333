@@ -3,22 +3,29 @@
 <p align="center">
   <b>Software Engineer | IT Support Specialist | DevOps & Automation Enthusiast</b>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deanrobin333&label=Profile%20views&color=0e75b6&style=flat" alt="Dean Robin" />
 
 <!-- Banner Image -->
 <p align="center">
   <img src="./images/github-154769_400_400x.png" alt="GitHub Banner">
 </p>
+---
+<h3 align="center">Software Engineer and Tech Enthusiast with an intense passion for problem-solving, innovation, and efficiency</h3>
+
+<p align="center">I am drawn to the 🌐complexity of the human mind 🧠—the infinite choices we make on a daily basis, each shaping our conception of reality in new and varied ways, and frequently yielding unexpected moments of discovery and serendipity 🤞. This fascination with complexity translates to my activities with technology💻, where I embrace challenge 🛠️ as an opportunity to learn, to create, and to master my profession.
+</p>
 
 ---
-<div align="center">
+<img align="right" alt="Coding" width="400" src="./images/Nft Coding GIF.gif">
+
 <h2>🚀 **About Me**</h2>  
 
-💻 Passionate **Software Engineer** with expertise in **Python, JavaScript, Bash Scripting, and Automation**  
-🔧 Experienced in **IT Support, System Administration, and Cloud Services (AWS, DigitalOcean, GCP)**  
-⚡ Strong background in **DevOps, CI/CD, and Infrastructure as Code (Docker, Kubernetes, Terraform, Jenkins)**  
-📚 **Mentored 120+ students**, helping them complete their specialization phase in software engineering  
-🔥 Open-source contributor and advocate for **clean code and best practices**  
-</div>
+- 💻 Passionate **Software Engineer** with expertise in **Python, JavaScript, Bash Scripting, and Automation**  
+- 🔧 Experienced in **IT Support, System Administration, and Cloud Services (AWS, DigitalOcean, GCP)**  
+- ⚡ Strong background in **DevOps, CI/CD, and Infrastructure as Code (Docker, Kubernetes, Terraform, Jenkins)**  
+- 📚 **Mentored 120+ students**, helping them complete their specialization phase in software engineering  
+- 🔥 Open-source contributor and advocate for **clean code and best practices**  
+
 ---
 <br />
 
