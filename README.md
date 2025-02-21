@@ -35,8 +35,9 @@
 <img align="right" alt="Coding" width="300" src="./images/Nft Coding GIF.gif">
 
 <!-- <h2 align="center">🚀 About Me</h2> -->
-<img align="center" src="https://readme-typing-svg.demolab.com/?lines=🚀+About+Me;&size=33&pause=333" alt="About Me">
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=🚀+About+Me;&size=33&pause=333" alt="About Me">
+</p>
 - 💻 Passionate **Software Engineer** with expertise in **Python, JavaScript, Bash Scripting, and Automation**  
 - 🔧 Experienced in **IT Support, System Administration, and Cloud Services (AWS, DigitalOcean, GCP)**  
 - ⚡ Strong background in **DevOps, CI/CD, and Infrastructure as Code (Docker, Kubernetes, Terraform, Jenkins)**  
