@@ -57,6 +57,12 @@
 
 ---
 
+### Profile Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=deanrobin333)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 📊 **GitHub Stats**  
 <!-- shows stats including pull requests stars earned etc.>
 <!-- <p align="center">
@@ -91,4 +97,7 @@
 ⭐ **"Code with passion, automate with precision, and innovate with purpose!"** 🚀  
 
 ---
+<div align="right">
+    <sub style="font-style: italic"> Dean Robin Otsyeno - deanrobin777@gmail.com</sub>
+</div>
 
