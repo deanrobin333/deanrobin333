@@ -165,5 +165,5 @@
 
 <!-- <h2 align="center">⬇️My repos⬇️</h2> -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=⬇️+MY+REPOS+⬇️;&size=36&background=ffb400" alt="Code with passion">
+<img src="https://readme-typing-svg.demolab.com/?lines=⬇️+MY+REPOS+⬇️;&size=36&color=ffb400" alt="Code with passion">
 </P>
