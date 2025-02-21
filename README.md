@@ -153,7 +153,7 @@
 <!-- ⭐ **"Code with passion, automate with precision, and innovate with purpose!"** 🚀   -->
 
 
-<img src="https://readme-typing-svg.demolab.com/?lines=⭐+Code+with+passion,+automate+with+precision,+and+innovate+with+purpose+🚀;&width=800&size=18&duration=9999" alt="Code with passion">
+<img src="https://readme-typing-svg.demolab.com/?lines=⭐+Code+with+passion,+automate+with+precision,+and+innovate+with+purpose+🚀;&width=800&size=18&duration=7777" alt="Code with passion">
 
 
 ---
