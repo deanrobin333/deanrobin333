@@ -53,9 +53,9 @@
 <!-- <h2 align="center">🔨 Tech Stack & Tools 🔨</h2> -->
 
 <!-- Instead of &, try using %26, which is the URL-encoded form of & -->
-<p align="center">
+
 <img src="https://readme-typing-svg.demolab.com/?lines=🔨+Tech+Stack+%26+Tools+🔨;&size=30" alt="Tech Stack and Tools">
-</p>
+
 
 | 📜 Languages & Frameworks | ☁️ DevOps & Cloud | ⚙️ Tools & Productivity |
 |---------------------------|------------------|-------------------------|
