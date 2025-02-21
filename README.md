@@ -6,7 +6,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="./images/github-154769_640.png" alt="GitHub Banner">
+  <img src="./images/github-154769_400_400x.png" alt="GitHub Banner">
 </p>
 
 ---
@@ -48,14 +48,17 @@
 ---
 
 ## 📊 **GitHub Stats**  
-
-<p align="center">
+<!-- shows stats including pull requests stars earned etc.>
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deanrobin333&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
+</p> -->
 
-<p align="center">
+
+<div align="center">
+  <a href="https://github.com/deanrobin333">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deanrobin333&theme=dark" alt="GitHub Streak">
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanrobin333&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ---
 
@@ -72,7 +75,7 @@
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Website">
   </a>
 </p>
-***
+
 ---
 
 ⭐ **"Code with passion, automate with precision, and innovate with purpose!"** 🚀  
