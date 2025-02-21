@@ -73,10 +73,16 @@
 
 ## 📊 **GitHub Stats**  
 <!-- shows stats including pull requests stars earned etc.>
+<!-- Default -->
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deanrobin333&show_icons=true&theme=dark" alt="GitHub Stats">
 </p> -->
 
+<!-- With color -->
+<!-- 
+<img src="https://github-readme-stats.vercel.app/api?username=deanrobin333&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,1abc9c,16a085,2ecc71,3498db&count_private=true&theme=graywhite" alt="Dean Robin's GitHub Stats"/>
+
+-->
 
 <div align="center">
   <a href="https://github.com/deanrobin333">
@@ -84,7 +90,8 @@
   <!-- >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deanrobin333&theme=dark" alt="GitHub Streak">
   -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deanrobin333&background=1abc9c&border=16a085&stroke=2ecc71&ring=3498db&fire=1abc9c&currStreakLabel=2ecc71" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deanrobin333&theme=graywhite&hide_border=true&background=0,1abc9c,16a085,2ecc71,3498db" alt="Dean Robin's GitHub Streak">
+
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanrobin333&layout=compact&langs_count=7&theme=dark"/>
 </div>
