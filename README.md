@@ -161,9 +161,9 @@
     <sub style="font-style: italic"> Dean Robin Otsyeno - deanrobin777@gmail.com</sub>
 </div>
 
----
+<br></br>
 
 <!-- <h2 align="center">⬇️My repos⬇️</h2> -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=⬇️+MY+REPOS+⬇️;&size=36" alt="Code with passion">
+<img src="https://readme-typing-svg.demolab.com/?lines=⬇️+MY+REPOS+⬇️;&size=36&background=ffb400" alt="Code with passion">
 </P>
