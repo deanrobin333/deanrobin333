@@ -92,8 +92,13 @@
   -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deanrobin333&theme=graywhite&hide_border=true&background=0,1abc9c,16a085,2ecc71,3498db" alt="Dean Robin's GitHub Streak">
 
-
+    <!-- Default appearance -->
+  <!-- >
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanrobin333&layout=compact&langs_count=7&theme=dark"/>
+    -->
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanrobin333&layout=compact&langs_count=7&bg_color=0,1abc9c,16a085,2ecc71,3498db&theme=graywhite&hide_border=true"/>
+
 </div>
 
 ---
