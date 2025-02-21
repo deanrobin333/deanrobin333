@@ -15,7 +15,7 @@
 <p align="center">I am drawn to the 🌐complexity of the human mind 🧠—the infinite choices we make on a daily basis, each shaping our conception of reality in new and varied ways, and frequently yielding unexpected moments of discovery and serendipity 🤞. This fascination with complexity translates to my activities with technology💻, where I embrace challenge 🛠️ as an opportunity to learn, to create, and to master my profession.
 </p>
 ---
-
+<br />
 
 <img align="right" alt="Coding" width="300" src="./images/Nft Coding GIF.gif">
 
