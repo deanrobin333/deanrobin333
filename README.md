@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 <!-- <h1 align="center">Hi there, I'm Dean Robin Otsyeno 👋</h1> -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm;Dean+Robin+Otsyeno+👋;&size=36" alt="Hi there, I'm Dean Robin Otsyeno">
-</h1>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm;Dean+Robin+Otsyeno+👋;&size=36" alt="Hi there, I'm Dean Robin Otsyeno">
+
 
 <p align="center">
   <b>Software Engineer | IT Support Specialist | DevOps & Automation Enthusiast</b>
