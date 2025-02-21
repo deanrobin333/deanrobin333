@@ -151,7 +151,11 @@
 
 ---
 
-⭐ **"Code with passion, automate with precision, and innovate with purpose!"** 🚀  
+⭐
+<img src="https://readme-typing-svg.demolab.com/?lines=Code+with+passion,+automate+with+precision,+and+innovate+with+purpose;" alt="Code with passion">
+🚀
+
+<!-- ⭐ **"Code with passion, automate with precision, and innovate with purpose!"** 🚀   -->
 ---
 
 <h2 align="center">⬇️My repos⬇️</h3>
