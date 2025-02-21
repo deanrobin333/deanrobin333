@@ -36,7 +36,7 @@
 
 <!-- <h2 align="center">🚀 About Me</h2> -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=🚀+About+Me;&size=33" alt="About Me">
+<img src="https://readme-typing-svg.demolab.com/?lines=🚀+About+Me;&size=33&duration=3333" alt="About Me">
 </p>
 
 - 💻 Passionate **Software Engineer** with expertise in **Python, JavaScript, Bash Scripting, and Automation**  
@@ -54,7 +54,7 @@
 
 <!-- Instead of &, try using %26, which is the URL-encoded form of & -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=🔨+Tech+Stack+%26+Tools;&size=30" alt="Tech Stack and Tools">
+<img src="https://readme-typing-svg.demolab.com/?lines=🔨+Tech+Stack+%26+Tools;&size=30&duration=3333" alt="Tech Stack and Tools">
 </p>
 
 | 📜 Languages & Frameworks | ☁️ DevOps & Cloud | ⚙️ Tools & Productivity |
@@ -67,7 +67,7 @@
 
 <!-- ## 📌 **Notable Projects**   -->
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com/?lines=📌+Notable+Projects;&size=30" alt="Notable Projects">
+<img src="https://readme-typing-svg.demolab.com/?lines=📌+Notable+Projects;&size=30&duration=3333" alt="Notable Projects">
 </p>
 
 ### 🛠 **Automation & Scripting**  
@@ -85,7 +85,7 @@
 
 
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com/?lines=🏆+Profile+Trophies;&size=30" alt="Profile Trophies">
+<img src="https://readme-typing-svg.demolab.com/?lines=🏆+Profile+Trophies;&size=30&duration=3333" alt="Profile Trophies">
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deanrobin333)](https://github.com/ryo-ma/github-profile-trophy)
@@ -95,7 +95,7 @@
 <!-- ## 📊 **GitHub Stats**   -->
 
 <p align="Left">
-<img src="https://readme-typing-svg.demolab.com/?lines=📊+Github+Stats;&size=30" alt="Tech Stack and Tools">
+<img src="https://readme-typing-svg.demolab.com/?lines=📊+Github+Stats;&size=30&duration=3333" alt="Tech Stack and Tools">
 </p>
 
 <!-- shows stats including pull requests stars earned etc.>
@@ -133,7 +133,7 @@
 <!-- ## 🌎 **Let's Connect!**   -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=🌎+Let's+Connect!;&size=33" alt="Tech Stack and Tools">
+<img src="https://readme-typing-svg.demolab.com/?lines=🌎+Let's+Connect!;&size=33&duration=3333" alt="Let us connect">
 </p>
 
 <p align="center">
