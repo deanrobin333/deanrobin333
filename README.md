@@ -8,9 +8,10 @@
     "Life is like a camera. Focus on what's important. Capture the good times. Develop from the negatives. And if things don't work out, take another shot!" Let's get snapping!
   </em>
 </p>
-
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="profile views">
 <img src="https://img.shields.io/github/last-commit/deanrobin333/deanrobin333" alt="deanrobin333 last commit" />
+</p>
 
 <!-- Banner Image -->
 
