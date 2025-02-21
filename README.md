@@ -3,6 +3,12 @@
 <p align="center">
   <b>Software Engineer | IT Support Specialist | DevOps & Automation Enthusiast</b>
 </p>
+<p align="center">
+  <em>
+    "Life is like a camera. Focus on what's important. Capture the good times. Develop from the negatives. And if things don't work out, take another shot. Let's get snapping!"
+  </em>
+</p>
+
 <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="profile views">
 
 <!-- Banner Image -->
@@ -91,6 +97,7 @@
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Website">
   </a>
 </p>
+
 
 ---
 
