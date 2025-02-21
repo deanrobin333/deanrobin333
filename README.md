@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <!-- <h1 align="center">Hi there, I'm Dean Robin Otsyeno 👋</h1> -->
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm;&size=33" alt="Hi there, I'm">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm;&size=27" alt="Hi there, I'm">
 <img src="https://readme-typing-svg.demolab.com/?lines=Dean+Robin+Otsyeno+👋;&size=33&pause=333" alt="Dean Robin Otsyeno">
 
 
