@@ -6,16 +6,17 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="profile views">
 
 <!-- Banner Image -->
-<p align="left">
-  <img src="./images/github-154769_400_400x.png" alt="GitHub Banner" width="300">
-</p>
+
+<img align="left" src="./images/github-154769_400_400x.png" alt="GitHub Banner" width="300">
+
 
 <h3 align="center">Software Engineer and Tech Enthusiast with an intense passion for problem-solving, innovation, and efficiency</h3>
 
 <p align="center">I am drawn to the 🌐complexity of the human mind 🧠—the infinite choices we make on a daily basis, each shaping our conception of reality in new and varied ways, and frequently yielding unexpected moments of discovery and serendipity 🤞. This fascination with complexity translates to my activities with technology💻, where I embrace challenge 🛠️ as an opportunity to learn, to create, and to master my profession.
 </p>
-<br />
 ---
+
+
 <img align="right" alt="Coding" width="300" src="./images/Nft Coding GIF.gif">
 
 <h2>🚀 **About Me**</h2>  
