@@ -72,12 +72,12 @@
 
 ### 🛠 **Automation & Scripting**  
 🌟  **Currency Converter Script**: Built a Python script integrating the **Yahoo Finance API** to fetch real-time currency exchange rates.  
-🔹 **Project Generator**: Created a **Bash script** that auto-generates README files and project boilerplate, improving efficiency by **20%**.  
-🔹 **Server Maintenance Automation**: Developed scripts to automate **log analysis, system monitoring, and backups**.  
-
+🌟  **Project Generator**: Created a **Bash script** that auto-generates README files and project boilerplate, improving efficiency by **20%**.  
+🌟  **Server Maintenance Automation**: Developed scripts to automate **log analysis, system monitoring, and backups**.  
+<br></br>
 ### 💻 **Web Development & APIs**  
-🔹 **ShopRight** – A full-stack e-commerce platform using **React, FastAPI, and PostgreSQL**.  
-🔹 **AirBnB_clone_v4** – Built a dynamic property listing app with **Python, Flask, and MySQL**.  
+🌟  **ShopRight** – A full-stack e-commerce platform using **React, FastAPI, and PostgreSQL**.  
+🌟  **AirBnB_clone_v4** – Built a dynamic property listing app with **Python, Flask, and MySQL**.  
 
 > **Explore more projects** on my [GitHub Repositories](https://github.com/deanrobin333) 🚀  
 
