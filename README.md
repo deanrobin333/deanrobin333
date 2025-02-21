@@ -1,5 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Dean Robin Otsyeno 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Dean+Robin+Otsyeno+👋)](https://git.io/typing-svg)
 <p align="center">
   <b>Software Engineer | IT Support Specialist | DevOps & Automation Enthusiast</b>
 </p>
@@ -92,7 +93,7 @@
   -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deanrobin333&theme=graywhite&hide_border=true&background=0,1abc9c,16a085,2ecc71,3498db" alt="Dean Robin's GitHub Streak">
 
-  
+
   <!-- Default appearance -->
   <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanrobin333&layout=compact&langs_count=7&theme=dark"/>
@@ -122,7 +123,9 @@
 ---
 
 ⭐ **"Code with passion, automate with precision, and innovate with purpose!"** 🚀  
+---
 
+<h2 align="center">⬇️My repos⬇️</h3>
 ---
 <div align="right">
     <sub style="font-style: italic"> Dean Robin Otsyeno - deanrobin777@gmail.com</sub>
