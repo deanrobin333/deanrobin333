@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="300" src="./images/Nft Coding GIF.gif">
 
-<h2>🚀 **About Me**</h2>  
+<h2 align="center">🚀 About Me</h2>  
 
 - 💻 Passionate **Software Engineer** with expertise in **Python, JavaScript, Bash Scripting, and Automation**  
 - 🔧 Experienced in **IT Support, System Administration, and Cloud Services (AWS, DigitalOcean, GCP)**  
@@ -30,8 +30,8 @@
 
 
 
----
 <br></br>
+---
 <h2 align="center">🔨 Tech Stack & Tools 🔨</h2>
 
 | 📜 Languages & Frameworks | ☁️ DevOps & Cloud | ⚙️ Tools & Productivity |
