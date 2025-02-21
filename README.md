@@ -52,7 +52,7 @@
 <br></br>
 <!-- <h2 align="center">🔨 Tech Stack & Tools 🔨</h2> -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=🔨+Tech+Stack+&amp+Tools+🔨;&size=33" alt="Tech Stack and Tools">
+<img src="https://readme-typing-svg.demolab.com/?lines=🔨+Tech+Stack+%26+Tools+🔨;&size=33" alt="Tech Stack and Tools">
 </p>
 
 | 📜 Languages & Frameworks | ☁️ DevOps & Cloud | ⚙️ Tools & Productivity |
