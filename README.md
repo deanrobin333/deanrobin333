@@ -36,7 +36,7 @@
 
 <!-- <h2 align="center">🚀 About Me</h2> -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=🚀+About+Me;&size=33&pause=333" alt="About Me">
+<img src="https://readme-typing-svg.demolab.com/?lines=🚀+About+Me;&size=33" alt="About Me">
 </p>
 
 - 💻 Passionate **Software Engineer** with expertise in **Python, JavaScript, Bash Scripting, and Automation**  
