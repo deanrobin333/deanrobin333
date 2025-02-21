@@ -7,7 +7,7 @@
 
 <!-- Banner Image -->
 
-<img align="left" src="./images/github-154769_400_400x.png" alt="GitHub Banner" width="300">
+<img align="left" src="./images/Dynofin_heart_Brain.png" alt="GitHub Banner" width="250">
 
 
 <h3 align="center">Software Engineer and Tech Enthusiast with an intense passion for problem-solving, innovation, and efficiency</h3>
