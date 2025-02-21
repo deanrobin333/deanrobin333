@@ -3,10 +3,10 @@
 <p align="center">
   <b>Software Engineer | IT Support Specialist | DevOps & Automation Enthusiast</b>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deanrobin333&label=Profile%20views&color=0e75b6&style=flat" alt="Dean Robin" />
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 <!-- Banner Image -->
-<p align="center">
+<p align="left">
   <img src="./images/github-154769_400_400x.png" alt="GitHub Banner">
 </p>
 ---
@@ -14,7 +14,7 @@
 
 <p align="center">I am drawn to the 🌐complexity of the human mind 🧠—the infinite choices we make on a daily basis, each shaping our conception of reality in new and varied ways, and frequently yielding unexpected moments of discovery and serendipity 🤞. This fascination with complexity translates to my activities with technology💻, where I embrace challenge 🛠️ as an opportunity to learn, to create, and to master my profession.
 </p>
-
+<br />
 ---
 <img align="right" alt="Coding" width="400" src="./images/Nft Coding GIF.gif">
 
