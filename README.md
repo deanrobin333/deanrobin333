@@ -1,6 +1,9 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Dean Robin Otsyeno 👋</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Dean+Robin+Otsyeno+👋)](https://git.io/typing-svg)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Dean+Robin+Otsyeno+👋" alt="Typing SVG">
+</h1>
+
 <p align="center">
   <b>Software Engineer | IT Support Specialist | DevOps & Automation Enthusiast</b>
 </p>
