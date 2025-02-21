@@ -10,10 +10,11 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="profile views">
+<img src="https://img.shields.io/github/last-commit/deanrobin333/deanrobin333" alt="deanrobin333 last commit" />
 
 <!-- Banner Image -->
 
-<img align="left" src="./images/Dynofin_heart_Brain.png" alt="GitHub Banner" width="250">
+<img align="left" src="./images/Dynofin_heart_Brain.png" alt="GitHub Banner" width="250"> 
 
 
 <h3 align="center">Software Engineer and Tech Enthusiast with an intense passion for problem-solving, innovation, and efficiency</h3>
