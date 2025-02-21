@@ -155,12 +155,15 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=⭐+Code+with+passion,+automate+with+precision,+and+innovate+with+purpose+🚀;&width=800&size=18" alt="Code with passion">
 
----
 
 ---
 <div align="right">
     <sub style="font-style: italic"> Dean Robin Otsyeno - deanrobin777@gmail.com</sub>
 </div>
 
-<h2 align="center">⬇️My repos⬇️</h3>
+---
+
+<!-- <h2 align="center">⬇️My repos⬇️</h2> -->
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=⬇️+MY+REPOS+⬇️;&size=36" alt="Code with passion">
+</P>
