@@ -71,7 +71,7 @@
 </p>
 
 ### 🛠 **Automation & Scripting**  
-🔹 **Currency Converter Script**: Built a Python script integrating the **Yahoo Finance API** to fetch real-time currency exchange rates.  
+🌟  **Currency Converter Script**: Built a Python script integrating the **Yahoo Finance API** to fetch real-time currency exchange rates.  
 🔹 **Project Generator**: Created a **Bash script** that auto-generates README files and project boilerplate, improving efficiency by **20%**.  
 🔹 **Server Maintenance Automation**: Developed scripts to automate **log analysis, system monitoring, and backups**.  
 
