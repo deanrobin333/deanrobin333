@@ -9,10 +9,10 @@
 <p align="left">
   <img src="./images/github-154769_400_400x.png" alt="GitHub Banner" width="300">
 </p>
----
-<h3>Software Engineer and Tech Enthusiast with an intense passion for problem-solving, innovation, and efficiency</h3>
 
-<p>I am drawn to the 🌐complexity of the human mind 🧠—the infinite choices we make on a daily basis, each shaping our conception of reality in new and varied ways, and frequently yielding unexpected moments of discovery and serendipity 🤞. This fascination with complexity translates to my activities with technology💻, where I embrace challenge 🛠️ as an opportunity to learn, to create, and to master my profession.
+<h3 align="center">Software Engineer and Tech Enthusiast with an intense passion for problem-solving, innovation, and efficiency</h3>
+
+<p align="center">I am drawn to the 🌐complexity of the human mind 🧠—the infinite choices we make on a daily basis, each shaping our conception of reality in new and varied ways, and frequently yielding unexpected moments of discovery and serendipity 🤞. This fascination with complexity translates to my activities with technology💻, where I embrace challenge 🛠️ as an opportunity to learn, to create, and to master my profession.
 </p>
 <br />
 ---
@@ -26,8 +26,6 @@
 - 📚 **Mentored 120+ students**, helping them complete their specialization phase in software engineering  
 - 🔥 Open-source contributor and advocate for **clean code and best practices**  
 
----
-<br />
 
 
 ---
