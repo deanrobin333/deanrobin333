@@ -34,6 +34,7 @@
 
 <img align="right" alt="Coding" width="300" src="./images/Nft Coding GIF.gif">
 
+<!-- ABOUT ME -->
 <!-- <h2 align="center">🚀 About Me</h2> -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=🚀+About+Me;&size=33&duration=3333" alt="About Me">
@@ -50,6 +51,8 @@
 <br></br>
 ---
 <br></br>
+
+<!-- TECH STACK AND TOOLS  -->
 <!-- <h2 align="center">🔨 Tech Stack & Tools 🔨</h2> -->
 
 <!-- Instead of &, try using %26, which is the URL-encoded form of & -->
@@ -64,6 +67,7 @@
 
 ---
 <br></br>
+<!-- NOTABLE PROJECTS  -->
 
 <!-- ## 📌 **Notable Projects**   -->
 <p align="left">
@@ -83,7 +87,7 @@
 
 ---
 
-
+<!-- PROFILE TROPHIES -->
 <p align="left">
 <img src="https://readme-typing-svg.demolab.com/?lines=🏆+Profile+Trophies;&size=30&duration=3333" alt="Profile Trophies">
 </p>
@@ -92,6 +96,7 @@
 
 ---
 
+<!-- GITHUB STATS  -->
 <!-- ## 📊 **GitHub Stats**   -->
 
 <p align="Left">
@@ -112,6 +117,8 @@
 
 <div align="center">
   <a href="https://github.com/deanrobin333">
+
+  <!-- STREAK STATS  -->
   <!-- Default appearance -->
   <!--
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deanrobin333&theme=dark" alt="GitHub Streak">
@@ -123,6 +130,8 @@
   <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=deanrobin333&theme=radical)](https://streak-stats.demolab.com/?user=deanrobin333&theme=radical) -->
   <img height="180em" src="https://streak-stats.demolab.com/?user=deanrobin333&theme=radical" />
 
+
+  <!-- MOST USED LANGUAGES  -->
   <!-- Default appearance -->
   <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deanrobin333&layout=compact&langs_count=7&theme=dark"/>
