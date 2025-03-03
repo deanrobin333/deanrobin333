@@ -88,7 +88,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=🏆+Profile+Trophies;&size=30&duration=3333" alt="Profile Trophies">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=deanrobin333)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=deanrobin333&bg_color=0,1abc9c,16a085,2ecc71,3498db&theme=graywhite&hide_border=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
