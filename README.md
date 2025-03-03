@@ -120,7 +120,7 @@
   <!-- THIS IS HAVING ISSUES DISPLAYING, KEEPS GETTING BROKEN -->
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=deanrobin333&theme=graywhite&hide_border=true&background=0,1abc9c,16a085,2ecc71,3498db" alt="Dean Robin's GitHub Streak"> -->
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deanrobin333&theme=dark&background=0,1abc9c,16a085,2ecc71,3498db" alt="Dean Robin's GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deanrobin333&background=0,1abc9c,16a085,2ecc71,3498db" alt="Dean Robin's GitHub Streak">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=deanrobin333&theme=graywhite&hide_border=true&background=0,1abc9c,16a085,2ecc71,3498db" alt="Dean Robin's GitHub Streak"> -->
 
 
