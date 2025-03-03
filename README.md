@@ -88,7 +88,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=🏆+Profile+Trophies;&size=30&duration=3333" alt="Profile Trophies">
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=deanrobin333&theme=nord&column=7" alt="Trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=deanrobin333&theme=nord&column=4" alt="Trophy">
 
 ---
 
